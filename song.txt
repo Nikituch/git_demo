@@ -1,3 +1,2 @@
-ïàïà äîìà 
-ìàìà äîìà
 git hellow
+github hellow
